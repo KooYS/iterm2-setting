@@ -8,7 +8,7 @@ https://iterm2.com/
 github : https://github.com/ohmyzsh/ohmyzsh
 or
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
-
+code ~/.zshrc -> ZSH_DISABLE_COMPFIX='true'
 ## 3. solarize oh my zsh
 https://gist.github.com/kevin-smets/8568070
 
